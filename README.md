@@ -17,8 +17,7 @@ by automatically scoping in with a macro.
 </p>
 
 <p align="center">
-This macro is completely legit, and allowed by the <a href= https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use/>Roblox TOS</a>,
-and War Tycoon rules.
+This macro is completely legit, and allowed by the <a href= https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use/>Roblox TOS.
 </p>
 
 <p align="center">
