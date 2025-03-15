@@ -3,7 +3,7 @@ Rest Sniper Fix
 </h1>
 
 <p align="center">
-<a href= "https://github.com/MythicRest/rest-sniperfix/LICENSE"><img alt="Static Badge" src="https://img.shields.io/badge/LICENSE-UnLicense-Blue?style=for-the-badge&logo=github&color=blue"></a>
+<a href= "https://github.com/MythicRest/rest-sniperfix/blob/main/LICENSE"><img alt="Static Badge" src="https://img.shields.io/badge/LICENSE-UnLicense-Blue?style=for-the-badge&logo=github&color=blue"></a>
 <a href= "https://github.com/MythicRest/rest-sniperfix/releases/tag/Release"><img alt="Static Badge" src="https://img.shields.io/badge/RELEASE-V2.3.0-Blue?style=for-the-badge&color=blue"></a>
 <a href= "https://www.autohotkey.com"><img alt="Static Badge" src="https://img.shields.io/badge/MADE%20WITH-AHK-Blue?style=for-the-badge&color=blue"></a>
 <a href= "https://github.com/MythicRest/rest-sniperfix"><img alt="Static Badge" src="https://img.shields.io/badge/Archived-Blue?style=for-the-badge&color=yellow"></a>
