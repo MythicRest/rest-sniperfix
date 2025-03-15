@@ -21,5 +21,5 @@ This macro is completely legit, and allowed by the <a href= https://en.help.robl
 </p>
 
 <p align="center">
-This Repo is now Archived.
+This Repository is now Archived.
 </p>
